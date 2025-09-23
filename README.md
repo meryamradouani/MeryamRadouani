@@ -5,7 +5,7 @@
 🔗 https://www.linkedin.com/in/meryam-radouani
 
 ## 🎯 Profil
-Élève-ingénieure en dernière année de Génie Informatique à l'ENSA Kénitra, spécialisée en développement full-stack et DevOps. Passionnée par la création d'applications web innovantes et l'optimisation des processus de développement. À la recherche d'un stage de fin d'études pour mettre en pratique mes compétences techniques et contribuer à des projets ambitieux.
+Élève-ingénieure en dernière année de Génie Informatique à l'ENSA Kénitra, spécialisée en développement full-stack et DevOps. Passionnée par la création d'applications web innovantes et l'optimisation des processus de développement. À la recherche d'un stage de fin d'études pour mettre en pratique mes compétences techniques et contribuer à des projets ambitieux.<br>
 
 ## 💼 Expérience Professionnelle
 
@@ -25,7 +25,7 @@
 
 
 <h1>📚 Projets Académiques</h1>
-📍 ENSA Kénitra
+📍 ENSA Kénitra<br>
 ✅ Application de Gestion de Tâches en Équipe | Juillet 2025
 - Plateforme collaborative avec système de rôles (Admin/Utilisateur) et tableaux de bord analytiques
 - Architecture microservices containerisée avec Docker et déploiement automatisé sur Docker Hub
