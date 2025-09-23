@@ -1,4 +1,4 @@
-<h1>Maryam Radouani</h1><br>
+<h1>Meryam Radouani</h1><br>
 📍 Sidi Taibi, Kénitra, Maroc <br>
 📞 +212 677 446 388<br>
 ✉️ meryamm.radouani@gmail.com<br>
