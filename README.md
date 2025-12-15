@@ -14,23 +14,35 @@
 - Développement d'une interface web d'interfaçage GED avec 4 modules métiers
 - Amélioration de la qualité du code via SonarQube, réduisant la duplication de code de 28,4% à 8,6%
 - Mise en place de pipelines CI/CD avec GitLab CI
-- **Technologies :** ASP.NET, C#, JavaScript, SonarQube, Docker, GitLab CI, SQL Server <br>
+- **Technologies :** Java , JavaScript, SonarQube, Docker, GitLab CI, SQL Server <br>
 
 ### Full-stack Developer Intern | ONEEP, Rabat  
 **Juillet - Août 2024**
-- Conception et développement d'une application web de gestion du parc informatique
-- Implémentation d'un système de gestion de stock et suivi des équipements
-- Création d'interfaces responsives et développement backend complet
-- **Technologies :** Laravel, PHP, MySQL, Bootstrap, JavaScript, jQuery<br>
-
-
-<h1>📚 Projets Académiques</h1>
+Implémentation d’une interface React modulaire et communication avec le backend via Axios.
+• Mise en place d’une API RESTful avec Node.js/Express.js.
+• Authentification sécurisée avec JWT et gestion des rôles.
+• Containerisation avec Docker Compose et mise en place d’un pipeline CI/CD GitHub Actions pour automatiser build,
+tests et déploiement sur Docker Hub.
+• Orchestration Kubernetes pour le déploiement, le scaling et la gestion des services sur AWS (EKS).
+- **Technologies :** Docker, GitHub Actions, Kubernetes, SonarCloud, Jest, AWS (EKS) ,React, Node.js, MongoDB
+ <br>
+<h1>📚 Projets </h1>
 📍 ENSA Kénitra<br>
-✅ Application de Gestion de Tâches en Équipe | Juillet 2025
-- Plateforme collaborative avec système de rôles (Admin/Utilisateur) et tableaux de bord analytiques
-- Architecture microservices containerisée avec Docker et déploiement automatisé sur Docker Hub
-- API REST sécurisée avec authentification JWT et chiffrement Bcrypt
-- **Stack :** React, Node.js, Express, MongoDB, Tailwind CSS, GitHub Actions<br>
+✅Application de Gestion RH avec Pipeline CI/CD Complet
+• Gestion des employés (CRUD) via API RESTful avec Spring Boot.
+• Authentification sécurisée avec JWT , Intégration de SonarQube et mise en place de tests automatisés JUnit.
+• Interface utilisateur en React.js avec Axios pour la communication avec l’API.
+• Containerisation avec Docker et déploiement sur un cluster Kubernetes pour tester le déploiement et le scaling.
+• Mise en place d’un pipeline CI/CD GitHub Actions pour automatiser le build, test et déploiement sur Docker Hub.
+Technologies : Docker, GitHub Actions, JUnit, SonarCloud, Postman , Kubernetes , Spring Boot, React, JWT, MySQL .<br>
+✅Application E-commerce basée sur Microservices et DevOps
+• Développement de microservices indépendants (Order, Product, Inventory, Notification) avec Spring Boot, communication
+via Feign/WebClient et architecture événementielle avec Apache Kafka.
+• Persistance des données avec MySQL et MongoDB, qualité assurée par tests JUnit et intégration SonarQube.
+• Containerisation avec Docker, orchestration via Kubernetes
+• Monitoring et observabilité avec Prometheus pour les métriques et Grafana pour la visualisation en temps réel.
+Technologies : Spring Boot, MySQL, MongoDB, Docker, Kubernetes, JUnit, SonarQube, Postman, Feign/WebClient,
+Apache Kafka, Prometheus, Grafana.<br>
 ✅ Application de Scraping et Classification des Offres d'Emploi | Octobre 2024
 - Système de collecte, traitement et classification automatique d'offres d'emploi marocaines
 - Implémentation d'algorithmes de machine learning pour la catégorisation
@@ -41,14 +53,6 @@
 - Interface complète de gestion des opérations courantes d'un restaurant
 - Système de commandes, gestion de stock et suivi en temps réel
 - **Technologies :** Java, JavaFX, SceneBuilder, MySQL, CSS<br>
-
-✅ Todolist Application – Gestion de tâches avec ReactJS, Bootstrap, Material UI
-
-✅ Quran Verse Analyzer – Outil Python d’analyse, détection d’erreurs et traduction
-
-✅ Event Management Website – Site PHP fullstack pour la gestion d’événements scolaires
-
-✅ Mini Marketplace (Clone Avito) – Plateforme d’annonces développée avec Ruby on Rails
 
 <h1>🎓 Éducation</h1>
 🎓 École Nationale des Sciences Appliquées (ENSA) – Kénitra
