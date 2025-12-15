@@ -29,29 +29,29 @@ tests et déploiement sur Docker Hub.
 <h1>📚 Projets </h1>
 📍 ENSA Kénitra<br>
 ✅Application de Gestion RH avec Pipeline CI/CD Complet
-• Gestion des employés (CRUD) via API RESTful avec Spring Boot.
-• Authentification sécurisée avec JWT , Intégration de SonarQube et mise en place de tests automatisés JUnit.
-• Interface utilisateur en React.js avec Axios pour la communication avec l’API.
-• Containerisation avec Docker et déploiement sur un cluster Kubernetes pour tester le déploiement et le scaling.
-• Mise en place d’un pipeline CI/CD GitHub Actions pour automatiser le build, test et déploiement sur Docker Hub.
+• Gestion des employés (CRUD) via API RESTful avec Spring Boot.<br>
+• Authentification sécurisée avec JWT , Intégration de SonarQube et mise en place de tests automatisés JUnit.<br>
+• Interface utilisateur en React.js avec Axios pour la communication avec l’API.<br>
+• Containerisation avec Docker et déploiement sur un cluster Kubernetes pour tester le déploiement et le scaling.<br>
+• Mise en place d’un pipeline CI/CD GitHub Actions pour automatiser le build, test et déploiement sur Docker Hub.<br>
 Technologies : Docker, GitHub Actions, JUnit, SonarCloud, Postman , Kubernetes , Spring Boot, React, JWT, MySQL .<br>
-✅Application E-commerce basée sur Microservices et DevOps
-• Développement de microservices indépendants (Order, Product, Inventory, Notification) avec Spring Boot, communication
-via Feign/WebClient et architecture événementielle avec Apache Kafka.
-• Persistance des données avec MySQL et MongoDB, qualité assurée par tests JUnit et intégration SonarQube.
-• Containerisation avec Docker, orchestration via Kubernetes
-• Monitoring et observabilité avec Prometheus pour les métriques et Grafana pour la visualisation en temps réel.
+✅Application E-commerce basée sur Microservices et DevOps<br>
+• Développement de microservices indépendants (Order, Product, Inventory, Notification) avec Spring Boot, communication<br>
+via Feign/WebClient et architecture événementielle avec Apache Kafka.<br>
+• Persistance des données avec MySQL et MongoDB, qualité assurée par tests JUnit et intégration SonarQube.<br>
+• Containerisation avec Docker, orchestration via Kubernetes<br>
+• Monitoring et observabilité avec Prometheus pour les métriques et Grafana pour la visualisation en temps réel.<br>
 Technologies : Spring Boot, MySQL, MongoDB, Docker, Kubernetes, JUnit, SonarQube, Postman, Feign/WebClient,
 Apache Kafka, Prometheus, Grafana.<br>
-✅ Application de Scraping et Classification des Offres d'Emploi | Octobre 2024
-- Système de collecte, traitement et classification automatique d'offres d'emploi marocaines
-- Implémentation d'algorithmes de machine learning pour la catégorisation
-- Interface desktop avec traitement de données en temps réel
+✅ Application de Scraping et Classification des Offres d'Emploi | Octobre 2024<br>
+- Système de collecte, traitement et classification automatique d'offres d'emploi marocaines<br>
+- Implémentation d'algorithmes de machine learning pour la catégorisation<br>
+- Interface desktop avec traitement de données en temps réel<br>
 - **Technologies :** Java, Jsoup, Weka, Swing, MySQL<br>
 
-✅ Application de Gestion de Restaurant | Avril 2024
-- Interface complète de gestion des opérations courantes d'un restaurant
-- Système de commandes, gestion de stock et suivi en temps réel
+✅ Application de Gestion de Restaurant | Avril 2024<br>
+- Interface complète de gestion des opérations courantes d'un restaurant<br>
+- Système de commandes, gestion de stock et suivi en temps réel<br>
 - **Technologies :** Java, JavaFX, SceneBuilder, MySQL, CSS<br>
 
 <h1>🎓 Éducation</h1>
